@@ -14,10 +14,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mostafapro_whatsapp" height="30" width="40" />
   </a>
   <a href="mailto:mostafapro0@yahoo.com" target="_blank">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="#410093"><path d="M24 3c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16zm0 3c7.18 0 13 5.82 13 13s-5.82 13-13 13-13-5.82-13-13 5.82-13 13-13zm-5 6c-.553 0-1 .448-1 1v14c0 .552.447 1 1 1h14c.553 0 1-.448 1-1V13c0-.552-.447-1-1-1h-2l-5 4-5-4h-2z"/></svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="#410093"><path d="M24 3c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16zm0 3c7.18 0 13 5.82 13 13s-5.82 13-13 13-13-5.82-13-13 5.82-13 13-13zm-5 6c-.553 0-1 .448-1 1v14c0 .552.447 1 1 1h14c.553 0 1-.448 1-1V13c0-.552-.447-1-1-1h-2l-5 4-5-4h-2z"/></svg>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="#410093"><path d="M24 3c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16zm0 3c7.18 0 13 5.82 13 13s-5.82 13-13 13-13-5.82-13-13 5.82-13 13-13zm-5 6c-.553 0-1 .448-1 1v14c0 .552.447 1 1 1h14c.553 0 1-.448 1-1V13c0-.552-.447-1-1-1h-2l-5 4-5-4h-2z"/></svg>
-
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Email_icon.svg/120px-Email_icon.svg.png" alt="mostafapro_whatsapp" height="30" width="40" />
   </a>
 </p>
 

@@ -7,14 +7,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="mailto:mostafapro0@yahoo.com" target="_blank">
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/256px-Email_Shiny_Icon.svg.png" alt="mostafapro_whatsapp" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/mostafapro" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafapro_linkedin" height="30" width="40" />
   </a>
   <a href="https://wa.me/+201008161832" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mostafapro_whatsapp" height="30" width="40" />
-  </a>
-  <a href="mailto:mostafapro0@yahoo.com" target="_blank">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/256px-Email_Shiny_Icon.svg.png" alt="mostafapro_whatsapp" height="30" width="40" />
   </a>
 </p>
 

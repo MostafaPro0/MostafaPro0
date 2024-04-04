@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafapro0&label=Profile%20views&color=0e75b6&style=flat" alt="mostafapro0" /> </p>
 
-- 📫 How to reach me **mostafapro0@yahoo.com**
+- 📫 How to reach me: WhatsApp [https://wa.me/+201008161832](https://wa.me/+201008161832)
+
+- 📫 How to reach me: Email **mostafapro0@yahoo.com**
 
 - ⚡ Fun fact **I am funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mostafapro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafapro" height="30" width="40" /></a>
+<a href="whatsapp://send?text=Your%20Message%20Here&phone=+1234567890" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="mailto:example@example.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

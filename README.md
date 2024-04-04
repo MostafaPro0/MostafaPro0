@@ -14,7 +14,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mostafapro_whatsapp" height="30" width="40" />
   </a>
   <a href="mailto:mostafapro0@yahoo.com" target="_blank">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Email_icon.svg/120px-Email_icon.svg.png" alt="mostafapro_whatsapp" height="30" width="40" />
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/256px-Email_Shiny_Icon.svg.png" alt="mostafapro_whatsapp" height="30" width="40" />
   </a>
 </p>
 

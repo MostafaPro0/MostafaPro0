@@ -8,13 +8,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mostafapro" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafapro" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafapro_linkedin" height="30" width="40" />
   </a>
   <a href="whatsapp://send?text=Your%20Message%20Here&phone=201008161832" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mostafapro_whatsapp" height="30" width="40" />
   </a>
   <a href="mailto:mostafapro0@yahoo.com" target="_blank">
-    <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" style="fill: #410093; alt="mostafapro_email" />
   </a>
 </p>
 

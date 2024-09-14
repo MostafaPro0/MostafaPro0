@@ -11,13 +11,13 @@
 <p align="left">
     <a href="https://linkedin.com/in/mostafapro" target="blank">
         <img align="center"
-            src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
+            src="https://image.ibb.co/jQ68Td/font_awesome_4_7_0_linkedin_50_0_666666_none.png"
             alt="mostafapro_linkedin" height="40" width="100" />
     </a>
     <a href="mailto:mostafapro0@yahoo.com" target="_blank">
         <img align="center"
-            src="https://camo.githubusercontent.com/a3e89eabb3d6822ece5eb576676fae57fde72895b48243a1738d746ef74a0123/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62312f456d61696c5f5368696e795f49636f6e2e7376672f32353670782d456d61696c5f5368696e795f49636f6e2e7376672e706e67"
-            alt="mostafapro_whatsapp" height="40" width="60" />
+            src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"
+            alt="mostafapro_email" height="40" width="60" />
     </a>
     <a href="https://wa.me/+201008161832" target="_blank">
         <img align="center"

@@ -11,7 +11,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/mostafapro" target="blank">
         <img align="center"
-            src="https://image.ibb.co/jQ68Td/font_awesome_4_7_0_linkedin_50_0_666666_none.png"
+            src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"
             alt="mostafapro_linkedin" height="40" width="100" />
     </a>
     <a href="mailto:mostafapro0@yahoo.com" target="_blank">
